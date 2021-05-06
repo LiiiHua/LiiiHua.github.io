@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quotes on My New Hugo Site</title>
+    <title>Quotes on 知足常乐</title>
     <link>https://LiiiHua.github.io/quote/</link>
-    <description>Recent content in Quotes on My New Hugo Site</description>
+    <description>Recent content in Quotes on 知足常乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 May 2021 20:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 22:34:59 +0800</lastBuildDate>
     
 	<atom:link href="https://LiiiHua.github.io/quote/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中文</title>
+      <link>https://LiiiHua.github.io/quote/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Thu, 06 May 2021 22:34:59 +0800</pubDate>
+      
+      <guid>https://LiiiHua.github.io/quote/%E4%B8%AD%E6%96%87/</guid>
+      <description> 一个人死了，还会有人想起他，就算不错。
+ —— 汪曾祺
+  做了人类想成仙；生在地上要上天。
+ —— 鲁迅
+ </description>
+    </item>
     
     <item>
       <title>English</title>
@@ -17,8 +30,10 @@
       <pubDate>Wed, 05 May 2021 20:17:00 +0800</pubDate>
       
       <guid>https://LiiiHua.github.io/quote/english/</guid>
-      <description> Information is physical. by Rolf Landauer
-  As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality. by Albert Einstein
+      <description> Information is physical.
+ by Rolf Landauer
+  As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.
+ by Albert Einstein
  </description>
     </item>
     
