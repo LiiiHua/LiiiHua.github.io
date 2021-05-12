@@ -10,14 +10,15 @@
 
 
 
-    <meta name="description" content="This is the first try to create an article to show on my website.
+    <meta name="description" content="This is the first try to create an article to show on my website by Hugo.
 How can I change the order of the side-list? &ndash;&gt; Use &lsquo;weight&rsquo; !
 I shall not change the &lsquo;date&rsquo; casually, and be careful of &lsquo;Drafts&rsquo;, &lsquo;Expired&rsquo; and &lsquo;Future&rsquo;.
-It doesn&rsquo;t support LaTex inherently.">
+It doesn&rsquo;t support \(\LaTeX\) inherently. But I make it with the help of \(\KaTeX\). I followed this concise and beginner-friendly tutorial. $$\int_{-\infty}^{\infty}\mathrm{e}^{-x^2}\mathrm{d}x=\sqrt{\pi}$$
+If I want to write html content in a markdown file, I need to set markup.">
 
 
 
-    <title>Blog | 知足常乐</title>
+    <title>Miscellanea | 知足常乐</title>
 
     <link rel="icon" href="/favicon/favicon-32x32.png" type="image/x-icon">
 
@@ -149,7 +150,7 @@ It doesn&rsquo;t support LaTex inherently.">
             
                 <span class="flex">
                     <a href="/post/blog/" class="gdoc-nav__entry is-active">
-                        Blog
+                        Miscellanea
                     </a>
                 </span>
             
@@ -158,6 +159,8 @@ It doesn&rsquo;t support LaTex inherently.">
             
             </li>
             
+            
+        
             
             
 
@@ -174,6 +177,32 @@ It doesn&rsquo;t support LaTex inherently.">
                 <span class="flex">
                     <a href="/post/%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90/" class="gdoc-nav__entry ">
                         母亲节快乐
+                    </a>
+                </span>
+            
+            
+
+            
+            </li>
+            
+            
+        
+            
+            
+
+            
+            
+            
+            
+            
+            
+
+            <li>
+            
+            
+                <span class="flex">
+                    <a href="/post/%E4%B8%80%E4%BA%9B%E8%83%A1%E8%A8%80/" class="gdoc-nav__entry ">
+                        一些胡言
                     </a>
                 </span>
             
@@ -274,6 +303,64 @@ It doesn&rsquo;t support LaTex inherently.">
             </li>
             
             
+            
+
+            
+            
+            
+            
+            
+            
+
+            <li>
+            
+            
+                <span class="flex">
+                    <a href="/oo/" class="gdoc-nav__entry ">
+                        Oo
+                    </a>
+                </span>
+            
+            
+
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+
+            
+            
+            
+            
+            
+            
+
+            <li>
+            
+            
+                <span class="flex">
+                    <a href="/oo/temp/" class="gdoc-nav__entry ">
+                        Temp
+                    </a>
+                </span>
+            
+            
+
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
         
     </ul>
 
@@ -298,6 +385,15 @@ It doesn&rsquo;t support LaTex inherently.">
 
     
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
 
 
 
@@ -329,7 +425,7 @@ It doesn&rsquo;t support LaTex inherently.">
         
     
     
-        <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/post/' href='/post/'><span itemprop='name'>Post</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Blog</span><meta itemprop='position' content='3' /></li>
+        <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/post/' href='/post/'><span itemprop='name'>Post</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Miscellanea</span><meta itemprop='position' content='3' /></li>
     
 
     
@@ -344,11 +440,13 @@ It doesn&rsquo;t support LaTex inherently.">
 
 
     <article class="gdoc-markdown">
-        <h1>Blog</h1>
-        <p>This is the first try to create an article to show on my website.<br>
+        <h1>Miscellanea</h1>
+        <p>This is the first try to create an article to show on my website by Hugo.<br>
 How can I change the order of the side-list? &ndash;&gt; Use &lsquo;weight&rsquo; !</p>
 <p>I shall not change the &lsquo;date&rsquo; casually, and be careful of &lsquo;Drafts&rsquo;, &lsquo;Expired&rsquo; and &lsquo;Future&rsquo;.</p>
-<p>It doesn&rsquo;t support LaTex inherently.</p>
+<p>It doesn&rsquo;t support \(\LaTeX\) inherently. But I make it with the help of \(\KaTeX\). I followed this <a class="gdoc-markdown__link" href="https://eankeen.github.io/blog/posts/render-latex-with-katex-in-hugo-blog/">concise and beginner-friendly tutorial</a>.
+$$\int_{-\infty}^{\infty}\mathrm{e}^{-x^2}\mathrm{d}x=\sqrt{\pi}$$</p>
+<p>If I want to write html content in a markdown file, I need to set <code>markup.goldmark.renderer</code> to be <code>true</code>. As its name implies, there can be some risk.</p>
 
 
     </article>
@@ -409,7 +507,6 @@ How can I change the order of the side-list? &ndash;&gt; Use &lsquo;weight&rsquo
         var clipboard = new ClipboardJS('.clip');
     });
 </script>
-
 
 
 </body>
