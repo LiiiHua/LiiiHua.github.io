@@ -446,7 +446,7 @@ How can I change the order of the side-list? &ndash;&gt; Use &lsquo;weight&rsquo
 <p>I shall not change the &lsquo;date&rsquo; casually, and be careful of &lsquo;Drafts&rsquo;, &lsquo;Expired&rsquo; and &lsquo;Future&rsquo;.</p>
 <p>It doesn&rsquo;t support \(\LaTeX\) inherently. But I make it with the help of \(\KaTeX\). I followed this <a class="gdoc-markdown__link" href="https://eankeen.github.io/blog/posts/render-latex-with-katex-in-hugo-blog/">concise and beginner-friendly tutorial</a>.
 $$\int_{-\infty}^{\infty}\mathrm{e}^{-x^2}\mathrm{d}x=\sqrt{\pi}$$</p>
-<p>If I want to write html content in a markdown file, I need to set <code>markup.goldmark.renderer</code> to be <code>true</code>. As its name implies, there can be some risk.</p>
+<p>If I want to write html content in a markdown file, I need to set <code>markup.goldmark.renderer.unsafe</code> to be <code>true</code>. As its name implies, there can be some risk.</p>
 
 
     </article>

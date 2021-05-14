@@ -1,79 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
->
-
-<url>
- <loc>https://liiihua.github.io/</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/post/%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/post/%E4%B8%80%E4%BA%9B%E8%83%A1%E8%A8%80</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/quotes/english</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/post</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/post/blog</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/oo</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/quotes</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/oo/temp</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://liiihua.github.io/quotes/%E4%B8%AD%E6%96%87</loc>
- <priority>0.3</priority>
- <lastmod>2021-05-12</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://liiihua.github.io/post/%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90/</loc>
+    <lastmod>2021-05-09T18:46:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/post/</loc>
+    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/post/%E4%B8%80%E4%BA%9B%E8%83%A1%E8%A8%80/</loc>
+    <lastmod>2021-05-12T19:05:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/oo/</loc>
+    <lastmod>2021-05-10T16:34:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/quotes/</loc>
+    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/quotes/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2021-05-14T18:53:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/oo/temp/</loc>
+    <lastmod>2021-05-12T19:05:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/quotes/english/</loc>
+    <lastmod>2021-05-09T14:50:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/post/blog/</loc>
+    <lastmod>2021-05-08T09:40:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/</loc>
+    <lastmod>2021-05-07T15:14:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://liiihua.github.io/tags/</loc>
+  </url>
+  
 </urlset>
