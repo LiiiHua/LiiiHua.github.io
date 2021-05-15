@@ -120,6 +120,9 @@ If I want to write html content in a markdown file, I need to set markup.">
 
             <li>
             
+            <input type="checkbox" id="navtree-54ffa0fd" class="gdoc-nav__toggle" checked>
+            <label for="navtree-54ffa0fd" class="flex justify-between">
+            
             
                 <span class="flex">
                     <a href="/post/" class="gdoc-nav__entry ">
@@ -127,6 +130,10 @@ If I want to write html content in a markdown file, I need to set markup.">
                     </a>
                 </span>
             
+            
+                <svg class="icon gdoc_keyborad_arrow_left"><use xlink:href="#gdoc_keyborad_arrow_left"></use></svg>
+                <svg class="icon gdoc_keyborad_arrow_down hidden"><use xlink:href="#gdoc_keyborad_arrow_down"></use></svg>
+            </label>
             
 
             
@@ -303,64 +310,6 @@ If I want to write html content in a markdown file, I need to set markup.">
             </li>
             
             
-            
-
-            
-            
-            
-            
-            
-            
-
-            <li>
-            
-            
-                <span class="flex">
-                    <a href="/oo/" class="gdoc-nav__entry ">
-                        Oo
-                    </a>
-                </span>
-            
-            
-
-            
-                
-    
-
-    <ul class="gdoc-nav__list">
-        
-            
-            
-
-            
-            
-            
-            
-            
-            
-
-            <li>
-            
-            
-                <span class="flex">
-                    <a href="/oo/temp/" class="gdoc-nav__entry ">
-                        Temp
-                    </a>
-                </span>
-            
-            
-
-            
-            </li>
-            
-            
-        
-    </ul>
-
-            
-            </li>
-            
-            
         
     </ul>
 
@@ -444,9 +393,10 @@ If I want to write html content in a markdown file, I need to set markup.">
         <p>This is the first try to create an article to show on my website by Hugo.<br>
 How can I change the order of the side-list? &ndash;&gt; Use &lsquo;weight&rsquo; !</p>
 <p>I shall not change the &lsquo;date&rsquo; casually, and be careful of &lsquo;Drafts&rsquo;, &lsquo;Expired&rsquo; and &lsquo;Future&rsquo;.</p>
-<p>It doesn&rsquo;t support \(\LaTeX\) inherently. But I make it with the help of \(\KaTeX\). I followed this <a class="gdoc-markdown__link" href="https://eankeen.github.io/blog/posts/render-latex-with-katex-in-hugo-blog/">concise and beginner-friendly tutorial</a>.
+<p>It doesn&rsquo;t support \(\LaTeX\) inherently. But I make it with the help of <a class="gdoc-markdown__link" href="https://katex.org">\(\KaTeX\)</a>. I followed this <a class="gdoc-markdown__link" href="https://eankeen.github.io/blog/posts/render-latex-with-katex-in-hugo-blog/">concise and beginner-friendly tutorial</a>.
 $$\int_{-\infty}^{\infty}\mathrm{e}^{-x^2}\mathrm{d}x=\sqrt{\pi}$$</p>
 <p>If I want to write html content in a markdown file, I need to set <code>markup.goldmark.renderer.unsafe</code> to be <code>true</code>. As its name implies, there can be some risk.</p>
+<p>It is convenient to use <code>{{ &lt; toc-tree &gt; }}</code> or <code>{{ &lt; toc &gt; }}</code> to generate a table of content.</p>
 
 
     </article>
