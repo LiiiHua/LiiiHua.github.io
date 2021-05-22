@@ -12,24 +12,9 @@
     
     
     <item>
-      <title>English</title>
-      <link>https://liiihua.github.io/quotes/english/</link>
-      <pubDate>Sun, 16 May 2021 13:56:38 +0800</pubDate>
-      
-      <guid>https://liiihua.github.io/quotes/english/</guid>
-      <description>Information is physical.
-by Rolf Landauer
-  As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.
-by Albert Einstein (translated by George Barker Jeffery and Wilfrid Perrett)
-  The opposite of a profound truth may well be another profound truth.
-by Niels Bohr
-  I do think that quantum computers will have transformative effects on society eventually, but these may still be decades away.</description>
-    </item>
-    
-    <item>
       <title>中文</title>
       <link>https://liiihua.github.io/quotes/%E4%B8%AD%E6%96%87/</link>
-      <pubDate>Fri, 14 May 2021 18:53:50 +0800</pubDate>
+      <pubDate>Sat, 22 May 2021 20:11:43 +0800</pubDate>
       
       <guid>https://liiihua.github.io/quotes/%E4%B8%AD%E6%96%87/</guid>
       <description>一个人死了，还会有人想起他，就算不错。
@@ -44,7 +29,24 @@ by Niels Bohr
 —— Umberto Eco （李婧敬 译）
   受其感染，就也放下戒心，坦言自己从不曾做过教育，事实上，就不曾在社会上做过任何事，就从业的方面，就是一个小学生。
 —— 王安忆
- Updated: 2021-05-14</description>
+  人就像一粒种子，要做一粒好种子。
+—— 袁隆平
+ Updated: 2021-05-22</description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://liiihua.github.io/quotes/english/</link>
+      <pubDate>Sun, 16 May 2021 13:56:38 +0800</pubDate>
+      
+      <guid>https://liiihua.github.io/quotes/english/</guid>
+      <description>Information is physical.
+by Rolf Landauer
+  As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.
+by Albert Einstein (translated by George Barker Jeffery and Wilfrid Perrett)
+  The opposite of a profound truth may well be another profound truth.
+by Niels Bohr
+  I do think that quantum computers will have transformative effects on society eventually, but these may still be decades away.</description>
     </item>
     
   </channel>
