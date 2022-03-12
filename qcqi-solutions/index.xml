@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QCQI-solutions on 知足常乐</title>
+    <link>https://liiihua.github.io/qcqi-solutions/</link>
+    <description>Recent content in QCQI-solutions on 知足常乐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Aug 2021 11:30:49 +0800</lastBuildDate>
+    
+	<atom:link href="https://liiihua.github.io/qcqi-solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://liiihua.github.io/qcqi-solutions/chapter-1/</link>
+      <pubDate>Tue, 24 Aug 2021 11:30:49 +0800</pubDate>
+      
+      <guid>https://liiihua.github.io/qcqi-solutions/chapter-1/</guid>
+      <description>Introduction and Overview Exercise 1.1 So long as the set of possible \(x\) is finite, only 2 times are needed to keep error probability less than 1/2.
+Say \(x_0\neq x_1\in {0,&amp;hellip;,2^{n}-1}\), $$ f(x_0)=f(x_1) \Rightarrow f\ \text{is constant,}\\ f(x_0)\ne f(x_1) \Rightarrow f\ \text{is balanced.} $$ For the second condition, no error will occur. For the first condition, error occurs when we pick two variable from the same subset with \(2^n-1\) members, so the error probabilty is $$ \epsilon=\dfrac{2^{n-1}-1}{2^n-1}=\dfrac{1}{2}-\dfrac{1}{2(2^n-1)}&amp;lt;\dfrac{1}{2}.</description>
+    </item>
+    
+  </channel>
+</rss>

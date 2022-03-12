@@ -87,6 +87,8 @@ This year&amp;rsquo;s theme is &amp;ldquo;Together: Resisting, supporting, heali
       <guid>https://liiihua.github.io/quotes/%E4%B8%AD%E6%96%87/</guid>
       <description>一个人死了，还会有人想起他，就算不错。
 —— 汪曾祺
+  口味单调一点、耳音差一点，也还不要紧，最要紧的是对生活的兴趣要广一点。
+—— 汪曾祺
   做了人类想成仙；生在地上要上天。
 —— 鲁迅
   科学工作千万不能固执己见。缺乏勇于认错的精神，是会吃大亏的。
@@ -103,7 +105,17 @@ This year&amp;rsquo;s theme is &amp;ldquo;Together: Resisting, supporting, heali
 —— 何兆武
   人间到处有青山，何必刻意去计划将来的的旅程呢。
 —— 三毛
- Updated: 2021-08-24</description>
+ Updated: 2022-03-12</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://liiihua.github.io/qcqi-solutions/chapter-1/</link>
+      <pubDate>Tue, 24 Aug 2021 11:30:49 +0800</pubDate>
+      
+      <guid>https://liiihua.github.io/qcqi-solutions/chapter-1/</guid>
+      <description>Introduction and Overview Exercise 1.1 So long as the set of possible \(x\) is finite, only 2 times are needed to keep error probability less than 1/2.
+Say \(x_0\neq x_1\in {0,&amp;hellip;,2^{n}-1}\), $$ f(x_0)=f(x_1) \Rightarrow f\ \text{is constant,}\\ f(x_0)\ne f(x_1) \Rightarrow f\ \text{is balanced.} $$ For the second condition, no error will occur. For the first condition, error occurs when we pick two variable from the same subset with \(2^n-1\) members, so the error probabilty is $$ \epsilon=\dfrac{2^{n-1}-1}{2^n-1}=\dfrac{1}{2}-\dfrac{1}{2(2^n-1)}&amp;lt;\dfrac{1}{2}.</description>
     </item>
     
     <item>
